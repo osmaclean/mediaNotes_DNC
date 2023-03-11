@@ -9,19 +9,18 @@
     <link rel="stylesheet" href="./style/style.css">
 </head>
 
-<body>
+<body onload="calcularMedia()">
 
     <main>
         <h1>Painel do Professor</h1>
-        <form action="media.html" method="get">
+        <form action="index.html" method="get">
 
-            <label for="">Digite a primeira nota do aluno:</label>
-            <input type="number" name="n1" placeholder="Digite a nota 1...">
+            <label for="">A média do aluno é:</label>
+            <input type="text" id="media" name="media">
 
-            <label for="">Digite a segunda nota do aluno:</label>
-            <input type="number" name="n2" placeholder="Digite a nota 2...">
 
-            <input type="submit" value="Calcular">
+            <p>Portando está <span id="status"></span></p>
+            <input type="submit" value="Voltar">
         </form>
 
     </main>
