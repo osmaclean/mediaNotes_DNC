@@ -17,7 +17,7 @@ function calcularMedia() {
         document.getElementById("status").style.color = "green"
     } else {
         document.getElementById("status").innerHTML = "Reprovado"
-        document.getElementById("status").style.color = "red"
+        document.getElementById("status").style.color = "redzzz"
     }
 
 }
