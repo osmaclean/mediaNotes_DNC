@@ -60,4 +60,4 @@ Deploy realizado pela plataforma Vercel. Clique no botão abaixo e acesse o proj
 [![portfolio](https://img.shields.io/badge/-CLIQUE%20AQUI-yellowgreen)](https://media-notes-dnc.vercel.app/)
 
 ## Como rodar
-Clone esse repositório em um diretório na sua máquina local, abra o diretório utilizando a sua IDE de preferência e/ou abra o arquivo ```.hmtl``` em seu navegador.
+Clone esse repositório em um diretório na sua máquina local, abra o diretório utilizando a sua IDE de preferência e/ou abra o arquivo ```.html``` em seu navegador.
